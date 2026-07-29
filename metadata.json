@@ -1,0 +1,6 @@
+{
+  "name": "Douane Pharma 2026",
+  "description": "Classification Douanière des Produits Pharmaceutiques (DCI) selon le Tarif Marocain 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
